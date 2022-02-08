@@ -1,5 +1,9 @@
 # jupyter-template
 
+## Required
+
+- Docker
+
 ## How to use
 
 1. Duplicate or clone this
